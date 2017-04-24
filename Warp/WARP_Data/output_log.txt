@@ -1,0 +1,82 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     912 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Marcus\Desktop\Portfolio\Warp\WARP_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Marcus\Desktop\Portfolio\Warp\WARP_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Marcus\Desktop\Portfolio\Warp\WARP_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Marcus\Desktop\Portfolio\Warp\WARP_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Marcus\Desktop\Portfolio\Warp\WARP_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Marcus\Desktop\Portfolio\Warp\WARP_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Marcus\Desktop\Portfolio\Warp\WARP_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Marcus\Desktop\Portfolio\Warp\WARP_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.179 seconds
+Platform assembly: C:\Users\Marcus\Desktop\Portfolio\Warp\WARP_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Marcus\Desktop\Portfolio\Warp\WARP_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.789734 ms
+The referenced script on this Behaviour (Game Object 'GameManagerTest') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.672253 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1747.
+Total: 2.179755 ms (FindLiveObjects: 0.375908 ms CreateObjectMapping: 0.344261 ms MarkObjects: 1.434353 ms  DeleteObjects: 0.022665 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.812540 ms
+
+Unloading 117 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 1.165358 ms (FindLiveObjects: 0.076550 ms CreateObjectMapping: 0.080826 ms MarkObjects: 0.591018 ms  DeleteObjects: 0.414397 ms)
+
+50 0 -86.7774 0.388838 0.388838
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+part0 50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+part1 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+part2 -86.7774
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+part3 0.388838
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+part4 0.388838
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object 'GameManagerTest') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.711901 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1747.
+Total: 1.921451 ms (FindLiveObjects: 0.350249 ms CreateObjectMapping: 0.181325 ms MarkObjects: 1.370205 ms  DeleteObjects: 0.016678 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.236773 ms
+
+Unloading 117 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 1.151673 ms (FindLiveObjects: 0.088952 ms CreateObjectMapping: 0.080399 ms MarkObjects: 0.569635 ms  DeleteObjects: 0.410548 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 20d94 -> priority: 1 
